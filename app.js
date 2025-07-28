@@ -5,6 +5,8 @@ let numeroMaximo = 10;
 
 
 
+// Prueba escrito desde VS code del equipo
+
 function asignarTextoElemento(elemento, texto) {
     let elementoHTML = document.querySelector(elemento);
     elementoHTML.innerHTML = texto;
